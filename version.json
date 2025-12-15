@@ -1,0 +1,57 @@
+{
+    "1.0.3": {
+        "name": "OncoDock 2.1.0",
+        "release_date": "January 2025",
+        "description": "Latest stable release with enhanced AI models",
+        "tag": "Latest",
+        "base_url": "https://github.com/razeenv1/OncoDockInstallationPack/releases/download/v2.1.0/",
+        "files": [
+        {"name": "assets.tar.gz", "size_mb": 0.30, "extracted_mb": 0.30, "alias": "Core Assets"},
+        {"name": "cancerresearch.tar.gz", "size_mb": 1181.78, "extracted_mb": 4147.20, "alias": "Main Application Components"}, 
+        {"name": "ketcher-standalone-3.3.0.tar.gz", "size_mb": 18.89, "extracted_mb": 65.38, "alias": "Ketcher Viewer"},
+        {"name": "MGLTools-1.5.7.tar.gz", "size_mb": 76.59, "extracted_mb": 216.88, "alias": "MGL Tools Library"},
+        {"name": "OpenBabel-3.1.1.tar.gz", "size_mb": 21.92, "extracted_mb": 32.65, "alias": "Open Babel Dependencies"},
+        {"name": "models.tar.gz", "size_mb": 807.57, "extracted_mb": 872.34, "alias": "Training & Data Models"}, 
+        {"name": "uninstaller.tar.gz", "size_mb": 43.2, "extracted_mb": 43.4, "alias": "Uninstaller Tool"},
+        {"name": "OncoDock.py", "size_mb": 0.20, "alias": "Main Application Script"}, 
+        {"name": "OncoDock.exe", "size_mb": 0.14, "alias": "Application Executable"}
+        ]
+    },
+    "1.0.2": {
+        "name": "OncoDock 2.0.5",
+        "release_date": "December 2024",
+        "description": "Stable release with improved docking accuracy",
+        "tag": "Stable",
+        "base_url": "https://github.com/razeenv1/OncoDockInstallationPack/releases/download/v2.1.0/",
+        "files": [
+        {"name": "assets.tar.gz", "size_mb": 0.30, "extracted_mb": 0.30, "alias": "Core Assets"},
+        {"name": "cancerresearch.tar.gz", "size_mb": 1181.78, "extracted_mb": 4147.20, "alias": "Main Application Components"}, 
+        {"name": "ketcher-standalone-3.3.0.tar.gz", "size_mb": 18.89, "extracted_mb": 65.38, "alias": "Ketcher Viewer"},
+        {"name": "MGLTools-1.5.7.tar.gz", "size_mb": 76.59, "extracted_mb": 216.88, "alias": "MGL Tools Library"},
+        {"name": "OpenBabel-3.1.1.tar.gz", "size_mb": 21.92, "extracted_mb": 32.65, "alias": "Open Babel Dependencies"},
+        {"name": "models.tar.gz", "size_mb": 807.57, "extracted_mb": 872.34, "alias": "Training & Data Models"}, 
+        {"name": "uninstaller.tar.gz", "size_mb": 43.2, "extracted_mb": 43.4, "alias": "Uninstaller Tool"},
+        {"name": "OncoDock.py", "size_mb": 0.20, "alias": "Main Application Script"}, 
+        {"name": "OncoDock.exe", "size_mb": 0.14, "alias": "Application Executable"}
+        ]
+    },
+    "1.0.1": {
+        "name": "OncoDock 1.9.0",
+        "release_date": "November 2024",
+        "description": "Previous LTS version",
+        "tag": "LTS",
+        "base_url": "https://github.com/razeenv1/OncoDockInstallationPack/releases/download/v2.1.0/",
+        "files": [
+        {"name": "assets.tar.gz", "size_mb": 0.30, "extracted_mb": 0.30, "alias": "Core Assets"},
+        {"name": "cancerresearch.tar.gz", "size_mb": 1181.78, "extracted_mb": 4147.20, "alias": "Main Application Components"}, 
+        {"name": "ketcher-standalone-3.3.0.tar.gz", "size_mb": 18.89, "extracted_mb": 65.38, "alias": "Ketcher Viewer"},
+        {"name": "MGLTools-1.5.7.tar.gz", "size_mb": 76.59, "extracted_mb": 216.88, "alias": "MGL Tools Library"},
+        {"name": "OpenBabel-3.1.1.tar.gz", "size_mb": 21.92, "extracted_mb": 32.65, "alias": "Open Babel Dependencies"},
+        {"name": "models.tar.gz", "size_mb": 807.57, "extracted_mb": 872.34, "alias": "Training & Data Models"}, 
+        {"name": "uninstaller.tar.gz", "size_mb": 43.2, "extracted_mb": 43.4, "alias": "Uninstaller Tool"},
+        {"name": "OncoDock.py", "size_mb": 0.20, "alias": "Main Application Script"}, 
+        {"name": "OncoDock.exe", "size_mb": 0.14, "alias": "Application Executable"}
+        ]
+    }
+
+}
