@@ -1,6 +1,6 @@
 {
     "1.0.3": {
-        "name": "OncoDock 2.1.0",
+        "name": "OncoDock 1.0.3",
         "release_date": "January 2025",
         "description": "Latest stable release with enhanced AI models",
         "tag": "Latest",
@@ -18,7 +18,7 @@
         ]
     },
     "1.0.2": {
-        "name": "OncoDock 2.0.5",
+        "name": "OncoDock 1.0.2",
         "release_date": "December 2024",
         "description": "Stable release with improved docking accuracy",
         "tag": "Stable",
@@ -36,7 +36,7 @@
         ]
     },
     "1.0.1": {
-        "name": "OncoDock 1.9.0",
+        "name": "OncoDock 1.0.1",
         "release_date": "November 2024",
         "description": "Previous LTS version",
         "tag": "LTS",
@@ -53,5 +53,6 @@
         {"name": "OncoDock.exe", "size_mb": 0.14, "alias": "Application Executable"}
         ]
     }
+
 
 }
